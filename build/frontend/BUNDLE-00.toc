@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/lponder/Desktop/python/inventory-sql-gui/dist/frontend',
+   'EXECUTABLE')],)
